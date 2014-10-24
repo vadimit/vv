@@ -17,7 +17,7 @@ namespace MvcApplication3.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your app description page.";
+            ViewBag.Message = "О ляля.";
 
             return View();
         }
